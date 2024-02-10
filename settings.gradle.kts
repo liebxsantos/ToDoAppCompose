@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ToDoAppCompose"
-include ':app'
+include (":app")
